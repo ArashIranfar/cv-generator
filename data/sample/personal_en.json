@@ -1,0 +1,152 @@
+{
+  "personal": {
+    "name": "John Doe",
+    "email": {
+      "url": "john.doe@email.com",
+      "text": "Email"
+    },
+    "phone": {
+      "label": "Phone:",
+      "number": "+1 (555) 123-4567"
+    },
+    "linkedin": {
+      "url": "https://linkedin.com/in/johndoe",
+      "text": "linkedin.com/in/johndoe"
+    },
+    "github": {
+      "url": "https://github.com/johndoe",
+      "text": "github.com/johndoe"
+    },
+    "website": {
+      "url": "https://johndoe.dev",
+      "text": "Personal Website"
+    }
+  },
+  "summary": {
+    "title": "Professional Summary",
+    "text": "Ph.D. in Computer Science with over 5 years of experience designing and implementing advanced NLP and Generative AI solutions. Proven expertise in building full-stack RAG systems for complex data environments. Passionate about leveraging cutting-edge AI to solve real-world business problems and drive innovation."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "categories": [
+      {
+        "name": "NLP & Generative AI",
+        "items": [
+          "RAG Architecture",
+          "LangChain",
+          "Prompt Engineering",
+          "Vector Databases (ChromaDB, FAISS)",
+          "Hugging Face Transformers",
+          "PyTorch"
+        ]
+      },
+      {
+        "name": "Data Science & Machine Learning",
+        "items": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "XGBoost/LightGBM",
+          "TensorFlow/Keras"
+        ]
+      },
+      {
+        "name": "Software & MLOps",
+        "items": [
+          "FastAPI",
+          "Streamlit",
+          "Git/GitLab",
+          "Docker",
+          "API Design",
+          "Production Model Deployment"
+        ]
+      },
+      {
+        "name": "Languages & Management",
+        "items": [
+          "English (Native)",
+          "Python",
+          "SQL",
+          "Team Leadership",
+          "Project Management"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": [
+      {
+        "title": "Lead AI Engineer",
+        "company": "Tech Solutions Inc.",
+        "dates": "2021 - Present",
+        "description": [
+          "Architected and deployed end-to-end RAG systems for enterprise clients in the financial and legal sectors.",
+          "Led a team of 5 engineers in developing production-level NLP models, improving model inference time by 40%.",
+          "Managed the full MLOps lifecycle from data ingestion and model training to deployment and monitoring."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Data Insights LLC",
+        "dates": "2019 - 2021",
+        "description": [
+          "Developed document processing systems using NLP and computer vision to automate data extraction from unstructured documents.",
+          "Optimized and deployed object detection models (YOLOv4) on edge devices for real-time analysis."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Key Projects",
+    "items": [
+      {
+        "name": "Financial Document Analysis Platform (Professional)",
+        "description": "Architected an end-to-end system for processing legal banking documents with a multi-lingual OCR pipeline. The system reduced manual data entry by 90% and improved data extraction accuracy by 30%."
+      },
+      {
+        "name": "Academic Research RAG System (PhD Research)",
+        "description": "Developed a full-stack RAG system to analyze and query over 500 research papers, utilizing open-source models and a custom vector database implementation to facilitate novel literature reviews."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "degrees": [
+      {
+        "degree": "Ph.D. in Computer Science",
+        "university": "University of Technology",
+        "dates": "2019 - 2024",
+        "thesis_title": "Thesis: 'Advanced Methods for Knowledge Retrieval in Large Language Models'"
+      },
+      {
+        "degree": "M.S. in Computer Science",
+        "university": "State University",
+        "dates": "2017 - 2019",
+        "thesis_title": "Thesis: 'Efficient Indexing for Semantic Search'"
+      },
+      {
+        "degree": "B.S. in Computer Engineering",
+        "university": "State University",
+        "dates": "2013 - 2017",
+        "thesis_title": ""
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "items": [
+      "Doe, J., et al. (2023). 'A Novel Approach to Skill Assessment in Complex Simulations.' Journal of AI Research.",
+      "Smith, A., & Doe, J. (2021). 'Haptic Technology in Virtual Training Environments.' Frontiers in Robotics and AI."
+    ]
+  },
+  "teaching": {
+    "title": "Teaching, Leadership & Certifications",
+    "items": [
+      "Teaching Assistant for Advanced AI, University of Technology (2020-2023).",
+      "Lead, Graduate Research Group on NLP (2022-2023).",
+      "Certified Cloud AI Professional (2022)."
+    ]
+  }
+}
